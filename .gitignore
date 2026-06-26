@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (if large)
+*.h5
+*.keras
+*.ckpt
+*.pb
+
+# Dataset
+data/
+dataset/
+Datasets/
+
+# Google Colab
+/content/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Environment variables
+.env
